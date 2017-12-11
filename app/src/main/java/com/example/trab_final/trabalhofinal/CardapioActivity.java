@@ -18,7 +18,7 @@ import java.util.List;
  * Created by samsung on 11/12/2017.
  */
 
-public class LancheActivity extends AppCompatActivity {
+public class CardapioActivity extends AppCompatActivity {
 
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
 
